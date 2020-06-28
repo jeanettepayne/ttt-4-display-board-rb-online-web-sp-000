@@ -2,7 +2,7 @@
 # out the current state.
 
 
-board = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
+board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
 
 
 def display_board(board)
@@ -14,5 +14,4 @@ def display_board(board)
 end
 
 
-board = [" ", " ", " ", " ", "X", " ", " ", " ", " "]
-display_board(board)
+display_board(#{board[4])
