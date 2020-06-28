@@ -13,7 +13,7 @@ end
 
 display_board(board)
 
-board = [" ", " ", " ", " ", " ", "X", " ", " ", " "]
+board = [" ", " ", " ", " ", " ", " ", "X", " ", " "]
 display_board(board)
 
 
