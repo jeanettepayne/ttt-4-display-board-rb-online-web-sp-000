@@ -12,6 +12,7 @@ def display_board(board = [" ", " ", " ", " ", " ", " ", " ", " ", " "])
   puts " #{board[7]}  | #{board[8]}  | #{board[9]}  "
 end
 
+display_board(board)
 
 board = [" ", " ", " ", " ", " ", "X", " ", " ", " "]
 display_board(board)
